@@ -541,8 +541,18 @@
     "title": "网络安全",
     "name": "Freebuf",
     "type": "hottest",
+    "disable": "cf",
     "column": "china",
     "home": "https://www.freebuf.com/",
+    "color": "green",
+    "interval": 600000
+  },
+  "thehackernews": {
+    "title": "网络安全",
+    "name": "The Hacker News",
+    "type": "hottest",
+    "column": "china",
+    "home": "https://thehackernews.com/",
     "color": "green",
     "interval": 600000
   },
