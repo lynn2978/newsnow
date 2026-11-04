@@ -468,7 +468,17 @@ export const originSources = {
     title: "网络安全",
     color: "green",
     type: "hottest",
+    disable: "cf",
     home: "https://www.freebuf.com/",
+  },
+
+  "thehackernews": {
+    name: "The Hacker News",
+    column: "china",
+    title: "网络安全",
+    color: "green",
+    type: "hottest",
+    home: "https://thehackernews.com/",
   },
 
   "qqvideo": {
